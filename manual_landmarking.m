@@ -1,3 +1,5 @@
+# MATLAB function to obtain manual facial landmarks
+
 clear all; clc; close all;
 warning off;
 
